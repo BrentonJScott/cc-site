@@ -1,0 +1,3 @@
+Create Angular frontend capsule
+Create React frontend capsule
+Create Java backend capsule
