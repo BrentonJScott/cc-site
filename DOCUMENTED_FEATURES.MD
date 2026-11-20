@@ -1,3 +1,1 @@
-- Create Angular frontend capsule
-- Create React frontend capsule
-- Create Java backend capsule
+- Create Angular frontend capsule (GOAL: Expect to see capsule building in builds tab)
