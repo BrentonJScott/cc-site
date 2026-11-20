@@ -1,2 +1,6 @@
 - Create Angular frontend capsule (GOAL: Expect to see capsule building in builds tab)
 - Create React frontend capsule (GOAL: Expect to see capsule building in builds tab)
+- Create Vue frontend capsule (GOAL: Expect to see capsule building in builds tab)
+- Create NextJS backend capsule (GOAL: Expect to see capsule building in builds tab)
+- Create Static HTML capsule (GOAL: Expect to see capsule building in builds tab)
+- Create Svelte frontend capsule (GOAL: Expect to see capsule building in builds tab)
