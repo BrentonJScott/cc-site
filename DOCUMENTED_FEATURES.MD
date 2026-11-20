@@ -1,1 +1,2 @@
 - Create Angular frontend capsule (GOAL: Expect to see capsule building in builds tab)
+- Create React frontend capsule (GOAL: Expect to see capsule building in builds tab)
